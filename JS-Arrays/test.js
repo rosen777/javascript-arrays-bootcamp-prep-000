@@ -70,6 +70,7 @@ items = [1, 2, 3, 4]
 items.splice(1, 1)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 console.log(items) // [1, 3, 4]
 
 items = [1, 2, 3, 4]
@@ -91,6 +92,11 @@ console.log(items) //
 
 
 >>>>>>> 1d6c69d213c70af5bdb904a890eabbf7b325063f
+=======
+console.log(items) // 
+
+
+>>>>>>> 1d6c69d213c70af5bdb904a890eabbf7b325063f
 
 items = [1, 2, 3, 4, 5]
 
@@ -98,6 +104,7 @@ items = [...items.slice(0, 2), ...items.slice(3)] // [1, 2, 4, 5]
 
 console.log(items)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 items = [1, 2, 3, 4, 5, 6, 7]
 
@@ -133,9 +140,14 @@ array.myProperty = "I'm a property!"
 
 console.log(array.length)
 =======
+=======
+>>>>>>> 1d6c69d213c70af5bdb904a890eabbf7b325063f
 items = [1, 2, 3, 4, 5]
 
 items = [...items.slice(0, 2), ...items.slice(3)] // [1, 2, 4, 5]
 
 console.log(items)
+<<<<<<< HEAD
+>>>>>>> 1d6c69d213c70af5bdb904a890eabbf7b325063f
+=======
 >>>>>>> 1d6c69d213c70af5bdb904a890eabbf7b325063f
